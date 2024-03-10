@@ -114,8 +114,9 @@ The normalization process involved:
 
 The ER diagram showing the 4NF-compliant version of the data set is shown below:
 
+![ER Diagram](images/Diagram.drawio.png)
 [ER Diagram](images/ER_Diagram.drawio.svg)
 
 ## Conclusion
 
-The normalization process has significantly improved the structure of the dataset, making it compliant with 4NF. This restructuring reduces redundancy, eliminates multi-valued dependencies, and clarifies the relationships between different entities within the university's course grading system.
+The normalization process has improved the structure of the dataset, making it compliant with 4NF. It reduces data redundancy, eliminates multi-valued dependencies, and clarifies the relationships between different entities within the university's course grading system.
